@@ -1,5 +1,5 @@
 streamlit_app.py
-Diseño de sistema de vision computarizada que permite la detección automatica de objetos y corelación semantica del riesgo en entornos laborales como elementos de protección personal, maquinaría, comportamientos inseguros.
+#Diseño de sistema de vision computarizada que permite la detección automatica de objetos y corelación semantica del riesgo en entornos laborales como elementos de protección personal, maquinaría, comportamientos inseguros.
 import streamlit as st
 import cv2
 import pandas as pd
