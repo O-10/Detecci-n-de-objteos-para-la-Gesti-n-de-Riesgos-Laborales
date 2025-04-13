@@ -6,3 +6,4 @@ roboflow
 matplotlib
 scikit-learn
 openpyxl
+opencv-python
