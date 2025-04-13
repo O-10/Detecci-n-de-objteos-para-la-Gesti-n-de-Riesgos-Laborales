@@ -1,13 +1,4 @@
 streamlit
-opencv-python
+opencv-python-headless
 pandas
 numpy
-roboflow
-matplotlib
-scikit-learn
-openpyxl
-opencv-python
-[server]
-headless = true
-port = 8501
-enableCORS = false
