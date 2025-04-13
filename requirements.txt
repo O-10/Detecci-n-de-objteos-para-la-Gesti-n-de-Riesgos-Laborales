@@ -7,3 +7,7 @@ matplotlib
 scikit-learn
 openpyxl
 opencv-python
+[server]
+headless = true
+port = 8501
+enableCORS = false
