@@ -5,3 +5,4 @@ numpy
 roboflow
 stripe
 opencv-python
+import cv2
